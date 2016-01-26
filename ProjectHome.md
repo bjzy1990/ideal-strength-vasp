@@ -1,0 +1,1 @@
+calculating ideal strength of crystal using vasp.
